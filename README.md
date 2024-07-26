@@ -5,8 +5,6 @@ An educational game for improving number sense when multiplying.
 
 ### 4th Grade
 
-4.NS.4: Compare two fractions with different numerators and different denominators (e.g., by creating common denominators or numerators, or by comparing to a benchmark, such as 0, 1/2, and 1). Explain why comparisons are valid only when the two fractions refer to the same whole. Record the results of comparisons with symbols > , = , or < , and justify the conclusions (e.g., by using a visual fraction model).
-
 4.NS.6: Compare two decimals to hundredths by reasoning about their size based on the same whole. Record the results of comparisons with the symbols > , = , or < , and justify the conclusions (e.g., by using a visual model).
 
 ### 5th Grade
