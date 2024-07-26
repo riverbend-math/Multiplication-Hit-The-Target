@@ -1,7 +1,7 @@
 # Multiplication Hit-The-Target game
 An educational game for improving number sense when multiplying.
 
-## Indiana DOE Math Standards:
+## Indiana DOE Math Standards
 
 ### 4th Grade
 
