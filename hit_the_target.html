@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Hit-The-Target</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" href="https://riverbendmath.org/css/main.css" type="text/css" />
+    <link rel="stylesheet" href="hit_the_target.css" type="text/css" />
+    <script type="text/javascript" src="./modules/round_settings.js"></script>
+    <script type="text/javascript" src="./modules/reals.js"></script>
+    <script type="text/javascript" src="hit_the_target.js"></script>
+  </head>
+  <body>
+    <div id="HTT_game">
+      <h1 id="level"></h1>
+      <div id="next_game_block" class="invisible">
+        <button id="repeat">Repeat Level</button>
+        <button id="level_up">Level Up</button>
+      </div>
+      <div class="row">
+        <div class="column">
+          <p>
+            Target range: [<span class="stats" id="range_low"></span>,
+                           <span class="stats" id="range_high"></span>]
+          </p>
+          <p>
+            Starting at: <span class="stats" id="starter"></span>
+          </p>
+          <p>
+            Your shot: 
+            <input id="shot" type="text"></input>
+          </p>
+          <p>
+            <button id="shoot">Shoot!</button>
+          </p>
+          
+          <p>
+            <span class="hint" id="hint-message"></span>
+          </p>
+          <div id="example-block" class="invisible"></div>
+            <p>
+              <button id="example-button">Give an example of a hit</button>
+            </p>
+            <p>
+              <span class="hint" id="example"></span>
+            </p>
+          </div>
+        </div>
+        <div class="column">
+          <p>YOUR SHOTS</p>
+          <p><span id="shots_display"></span></p>
+        </div>
+        <div class="column">
+          <p>YOUR GOALS</p>
+          <p><span id="goals_display"></span></p>
+        </div>
+      </div> 
+    </div>
+  </body>
+</html>
+
+
+
