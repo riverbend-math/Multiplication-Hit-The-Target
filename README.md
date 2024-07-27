@@ -18,3 +18,11 @@ An educational game for improving number sense when multiplying.
 6.NS.2: Explain how opposite signs of numbers indicate locations on opposite sides of 0 on the number line; identify the opposite of the opposite of a number. 
 
 6.NS.3: Compare and order rational numbers and plot them on a number line. Write, interpret, and explain statements of order for rational numbers in real-world contexts.
+
+# Source URL
+
+https://github.com/riverbend-math/Multiplication-Hit-The-Target
+
+# LICENCE
+
+Placed into the public domain (CC0) by the Riverbend Community Math Center
